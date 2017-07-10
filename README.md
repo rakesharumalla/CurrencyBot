@@ -1,0 +1,2 @@
+# CurrencyBot
+My First Bot
